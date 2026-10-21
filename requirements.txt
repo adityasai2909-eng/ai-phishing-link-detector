@@ -1,7 +1,4 @@
-.streamlit
-test_app.py
-url_features.py
-.venv/.gitignore
+streamlit
 pandas
 requests
 joblib
